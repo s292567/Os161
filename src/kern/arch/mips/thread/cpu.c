@@ -295,7 +295,7 @@ cpu_idle(void)
 	wait();
         cpu_irqonoff();
 }
-
+/**/
 /*
  * Halt the CPU permanently.
  */
